@@ -27,7 +27,7 @@ const IndexPage = () => (
         <h2>Hi, we're:</h2>
         <h1>Reactive.id</h1>
         <p>We have goals to transform every website with <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">react.js</a> <br/>Do you have a site to be revamped?</p>
-        <p><a className="button" href="mailto:hi@reactive.id" target="_blank" rel="noopener noreferrer">Contact us</a></p>
+        <p><a className="button" href="mailto:ervandra.halim@gmail.com" target="_blank" rel="noopener noreferrer">Contact us</a></p>
       </div>
     </div>
   </Layout>
