@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(9.000000, 3.000000)">
+            <polygon id="Shape-2" stroke="#222222" fill="#F8F8F8" fill-rule="nonzero" points="39 0 0 22 0 67 39 90 78 68 78 23"></polygon>
+            <text id="R" font-family="OperatorMono-Medium, Operator Mono" font-size="60" font-weight="400" letter-spacing="0.006" fill="#222222">
+                <tspan x="22.497" y="64">R</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
